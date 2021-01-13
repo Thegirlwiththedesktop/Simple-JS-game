@@ -1,0 +1,16 @@
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+}
+body{
+	background-color: blue;
+	background-image: url('images/gamer.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h3{
+	font-weight: bold;
+	color: blue;
+}
